@@ -1,0 +1,2 @@
+# Image Understanding Course (2022-2023)
+This is the repository for the subject of image understanding. Here you will find the notebooks with part of the code used during the explanation of the lessons.
